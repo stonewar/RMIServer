@@ -1,0 +1,10 @@
+#Eclipse
+.settings
+.project 
+.classpath
+
+#Ant
+/bin/
+
+#Mac
+.DS_Store
